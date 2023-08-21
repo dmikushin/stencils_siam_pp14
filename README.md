@@ -2,6 +2,8 @@
 
 This is a supporting material for the talk given at SIAM Parallel Processing Conference in Portland, 21st Feb 2014.
 
+<img width="500px" src="siam_pp14.png">
+
 [Presentation slides](siam_pp14.pdf)
 
 The rest of this this README contains the original notes for the slides.
